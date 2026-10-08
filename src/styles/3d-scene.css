@@ -1,0 +1,3 @@
+/* The Three.js Canvas is sized by the .math-scene container in global.css. */
+.math-scene { contain: layout paint; }
+.math-scene canvas { touch-action: pan-y; }
